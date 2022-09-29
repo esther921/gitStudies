@@ -1,1 +1,2 @@
 # gitStudies
+Studies with Samantha
